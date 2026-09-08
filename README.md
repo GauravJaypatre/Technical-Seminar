@@ -2,7 +2,7 @@
 
 **Final Year Computer Engineering Technical Seminar**  
 **Author:** Gaurav Jaypatre  
-**Institution:** Department of Computer Engineering  
+**Institution:** Department of Computer Engineering, PCCOE
 
 ---
 
